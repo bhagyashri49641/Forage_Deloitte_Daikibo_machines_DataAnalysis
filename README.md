@@ -33,7 +33,7 @@ IF [Status] = 'unhealthy' THEN 10 ELSE 0 END
 * By drilling down (clicking on the factory with the most downtime), we can pinpoint exactly which device types are contributing to the failure rates in that specific location.
 
 ## Screenshot
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Forage-Deloitte-Daikibo-machines-DataAnalysis.png)
 
 
   
